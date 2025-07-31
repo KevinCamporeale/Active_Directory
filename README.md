@@ -36,6 +36,10 @@ In questo caso, il server Active Directory autorizzerà l'accesso alle risorse d
 3. Kevin è autorizzato all'accesso.
 4. Kevin ora può controllare le email, modificare il file di contratto e lavorare sul database.
 
+   
+<img width="745" height="351" alt="image" src="https://github.com/user-attachments/assets/aed25810-d05c-4c81-94d0-669c1f9c8f04" />
+
+
 ## Esempio 3 - Autorizzare o Negare l'accesso a un USER
 
 In questo esempio vediamo un altro utente che ha accesso misto (accesso consentito / negato).
@@ -46,7 +50,7 @@ In questo esempio vediamo un altro utente che ha accesso misto (accesso consenti
 4. Gianfranco può ora accedere alla mail e al file di contratto, ma non ha i permessi per accedere al database.
 
 
-<img width="745" height="351" alt="image" src="https://github.com/user-attachments/assets/aed25810-d05c-4c81-94d0-669c1f9c8f04" />
+<img width="744" height="543" alt="image" src="https://github.com/user-attachments/assets/c6420aac-cba5-43fc-9084-6e50001c3bea" />
 
 
 ## Active Directory Domain Service (AD DS)
